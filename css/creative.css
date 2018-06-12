@@ -184,6 +184,7 @@ header.masthead hr {
 
 header.masthead h1 {
   font-size: 2rem;
+  
 }
 
 header.masthead p {
@@ -304,7 +305,7 @@ header.masthead p {
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #ee4b28 !important;
+  background-color: ##8be3eb !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
